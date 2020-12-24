@@ -1,0 +1,9 @@
+dev-config:
+  config-a: "CONFIG at REMOTE repo A"
+  config-b: "CONFIG at REMOTE repo b. UPDATED"
+
+so-config:
+  config-a: "CONFIG at local a"
+  config-b: "CONFIG at local b"
+
+
