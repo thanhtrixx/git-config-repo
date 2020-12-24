@@ -1,5 +1,5 @@
 dev-config:
-  config-a: "CONFIG at REMOTE repo A"
+  config-a: "CONFIG at REMOTE repo A. 1.0.1"
   config-b: "CONFIG at REMOTE repo b. UPDATED"
 
 so-config:
